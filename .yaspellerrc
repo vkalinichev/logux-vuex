@@ -1,0 +1,20 @@
+{
+  "lang": "en",
+  "ignoreCapitalization": true,
+  "excludeFiles": [
+    "docs/*.js.html"
+  ],
+  "dictionary": [
+    "docdash",
+    "JSDoc",
+    "js",
+    "JS",
+    "logux",
+    "preloadedState",
+    "Redux",
+    "Sitnik",
+    "Vuex",
+    "UX",
+    "Versioning"
+  ]
+}
