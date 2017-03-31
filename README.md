@@ -1,6 +1,6 @@
 # Logux Vuex
 
-*Based on Logux Redux by Andrey Sitnik* 
+*Based on [Logux Redux] by Andrey Sitnik* 
 
 Logux is a client-server communication protocol. It synchronizes action
 between clients and server logs.
@@ -41,4 +41,5 @@ Vue.use(Vuex)
 
 See also [Logux Status] for UX best practices.
 
+[Logux Redux]: https://github.com/logux/logux-redux
 [Logux Status]: https://github.com/logux/logux-status
